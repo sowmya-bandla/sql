@@ -432,3 +432,6 @@ From the following tables write a SQL query to find the names of departments whe
     on e.emp_dept = d.dpt_code 
     group by e.emp_dept 
     having by count > 2;
+
+
+    
